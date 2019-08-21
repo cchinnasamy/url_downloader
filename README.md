@@ -15,3 +15,17 @@ docker run -d --name api_download -p 8081:8080 -v /opt/crawl/downloader/worker/f
 docker build -t worker -f Dockerfile .
 
 docker run -d --name worker_con  -v /opt/crawl/downloader/worker/files:/home/files worker
+
+
+Used tools and technology:
+
+Flask
+
+PostgreSQL
+
+RabbitMQ
+
+Swagger UI
+
+Docker
+

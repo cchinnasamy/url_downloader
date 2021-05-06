@@ -6,7 +6,7 @@ chardet==3.0.4
 Click==7.0
 cryptography==2.1.4
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 flask-restplus==0.12.1
 idna==2.6
 itsdangerous==1.1.0
